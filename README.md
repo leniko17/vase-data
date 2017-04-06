@@ -1,1 +1,1 @@
-BeazleyNumber,MuseumID,shape,findspot,comments
+BeazleyNumber, MuseumID, shape, findspot, comments
